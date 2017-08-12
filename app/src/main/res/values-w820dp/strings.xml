@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lat_title">Latitude :</string>
+    <string name="long_title">Longitude</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FenceIt</string>
+    <string name="lat_title">Latitude :</string>
+    <string name="long_title">Longitude</string>
+</resources>
